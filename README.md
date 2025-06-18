@@ -1,11 +1,11 @@
 # PhoneBookUsingAi
-# 📞 PhoneBook - Java Console Application
+# PhoneBook - Java Console Application
 
 This is a Java-based phone book management application that allows users to perform a variety of operations on contacts, including adding, searching, updating, deleting, and exporting them to a CSV file. It also supports persistent storage using serialization.
 
 ---
 
-## 💡 Features
+## Features
 
 - Add new contacts with name, email, and multiple phone numbers
 - Phone number validation based on country codes
@@ -19,7 +19,7 @@ This is a Java-based phone book management application that allows users to perf
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Java Standard Edition (JDK 8+)
 - Java IO for file handling
@@ -29,5 +29,5 @@ This is a Java-based phone book management application that allows users to perf
 
 ---
 
-## 📂 File Structure
+## File Structure
 
